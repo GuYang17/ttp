@@ -1,4 +1,4 @@
-# tpp
+# ttp
 
 A terminal typing practice program, based on Python curses module.
 
